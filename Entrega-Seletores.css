@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    }
+
+.article-1 {
+    line-height: 35px;
+}
+
+#foco {
+    color:blue
+}
+
+.u-1 {
+    color:blue;
+}
+
+.article-2 {
+    color: white;
+    background-color: rgba(42, 42, 248, 0.89);
+    line-height: 18px;
+}
+
+footer { 
+    color: white;
+    background-color: black;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
